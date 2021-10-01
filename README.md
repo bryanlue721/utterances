@@ -16,4 +16,4 @@ When Utterances loads, the GitHub [issue search API](https://developer.github.co
 To comment, users must authorize the utterances app to post on their behalf using the GitHub [OAuth flow](https://developer.github.com/v3/oauth/#web-application-flow). Alternatively, users can comment on the GitHub issue directly.
 
 ## configuration
-Visit [utteranc.es] to learn more. 
+Visit [utteranc.es](https://utteranc.es) to learn more. 
